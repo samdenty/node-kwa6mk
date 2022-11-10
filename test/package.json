@@ -2,13 +2,7 @@
   "name": "rrdom-nodejs",
   "version": "0.1.6",
   "scripts": {
-    "dev": "rollup --help",
-    "bundle": "rollup --config",
-    "bundle:es-only": "cross-env ES_ONLY=true rollup --config",
-    "check-types": "tsc -noEmit",
-    "test": "jest",
-    "prepublish": "npm run bundle",
-    "lint": "yarn eslint src/**/*.ts"
+    "hangs": "rollup --help"
   },
   "keywords": ["rrweb", "rrdom-nodejs"],
   "license": "MIT",
