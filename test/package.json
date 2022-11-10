@@ -1,17 +1,5 @@
 {
-  "name": "rrdom-nodejs",
-  "version": "0.1.6",
   "scripts": {
     "hangs": "node --help"
-  },
-  "keywords": ["rrweb", "rrdom-nodejs"],
-  "license": "MIT",
-  "main": "lib/rrdom-nodejs.js",
-  "module": "es/rrdom-nodejs.js",
-  "typings": "es",
-  "files": ["dist", "lib", "es", "typings"],
-  "devDependencies": {
-    "rollup": "^2.56.3"
-  },
-  "browserslist": ["supports es6-class"]
+  }
 }
