@@ -2,7 +2,7 @@
   "name": "rrdom-nodejs",
   "version": "0.1.6",
   "scripts": {
-    "hangs": "rollup --help"
+    "hangs": "node --help"
   },
   "keywords": ["rrweb", "rrdom-nodejs"],
   "license": "MIT",
