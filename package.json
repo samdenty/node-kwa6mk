@@ -1,4 +1,7 @@
 {
   "private": true,
-  "workspaces": ["test"]
+  "workspaces": ["test"],
+  "scripts": {
+    "hangs": "node --help"
+  }
 }
